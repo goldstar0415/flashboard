@@ -2,10 +2,7 @@
 
 > flashboard can handle your whole back-end includes services, rest-full api and admin dashboard based on loopback node.js framework.
 Simply can define your models with several options and get your rest-full api and admin dashboard automatically.
-
-Documentations: [https://vah7id.github.io/flashboard/start.html](https://vah7id.github.io/flashboard/start.html) 
-
-Admin demo : 	[http://138.68.46.113/flashboard](http://138.68.46.113/flashboard)      
+   
 credentials:    
 email: ``` admin@flashboard.com ```      
 password: ``` qwertyuiop ```      
@@ -30,7 +27,7 @@ After create your models you have a rest-full api based on your models. In this 
 Before you begin, make sure you have Node.js and MongoDB installed. For best results, use the latest LTS (long-term support) release of Node.js.
 
 Running below command in your empty project directory path :  
-``` $ git clone https://github.com/vah7id/flashboard.git ```  
+``` $ git clone https://github.com/typescript59/flashboard.git ```  
 
 First install your services packages by run below command on your project directory :  
 ``` $ npm run preinstall  ```  
@@ -56,10 +53,6 @@ Add Multi language support
 Fix build issues for production   
 Add Relational model support for admin   
 
-## Articles   
-New generation of back-end services:   
-https://medium.com/@vah7id/new-generation-of-back-end-services-53b0922ed8e2   
-
 ## Contribute
 
 Contributions welcome! Like seriously
@@ -68,7 +61,3 @@ If you have a any issue with flashboard feel free to report it in github
 
 We need to improve the admin dashboard with more options and features. 
 Next step is creating the GUI for creating and managing models and API's.   
-
-## License
-
-(The MIT License) Copyright (c) 2016 Vahid Taghizadeh Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
